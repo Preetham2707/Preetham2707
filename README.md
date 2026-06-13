@@ -1,139 +1,176 @@
 <div align="center">
 
-# 👋 Hi, I'm Preetham Reddy Kallem
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20&text=PREETHAM%20REDDY%20KALLEM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### Java Developer | Problem Solver | Computer Science Graduate
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Developer+☕;Software+Engineer+🚀;Data+Structures+%26+Algorithms+⚡;Backend+Development+💻;Always+Learning+🔥"/>
 
-💻 Passionate about Java Development, Data Structures & Algorithms
-
-🌱 Continuously Learning and Building Better Software
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-🎓 B.Tech in Computer Science from Geethanjali College of Engineering and Technology
+# 🚀 About Me
 
-💡 Strong foundation in:
+🎓 Computer Science Graduate from **Geethanjali College of Engineering and Technology**
 
-- Java Programming
-- Object-Oriented Programming
-- Collections Framework
-- Multithreading
-- Data Structures & Algorithms
-- MySQL
+💻 Passionate Java Developer focused on building reliable and scalable software solutions.
 
-🚀 Interested in:
+🌱 Currently Learning:
 
-- Software Development
-- Backend Development
-- Java Applications
-- Problem Solving
+* Spring Boot
+* Advanced Java
+* System Design
+* Backend Development
+
+⚡ Core Strengths:
+
+* Java Programming
+* Object-Oriented Programming
+* Collections Framework
+* Multithreading
+* Data Structures & Algorithms
+* MySQL
 
 📍 Hyderabad, India
 
-📧 preethamail99@gmail.com
+📧 [preethamail99@gmail.com](mailto:preethamail99@gmail.com)
 
 ---
 
 # 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:preethamail99@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+# ⚙️ Tech Stack
 
-### Programming Languages
-- Java
-- C
+<div align="center">
 
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- Collections Framework
-- Multithreading
-- Data Structures & Algorithms
+<img src="https://skillicons.dev/icons?i=java,c,mysql,git,github,vscode,eclipse"/>
 
-### Database
-- MySQL
+</div>
 
-### Tools
-- Eclipse
-- VS Code
-- Git
-- GitHub
+<br>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME\&theme=tokyonight)
+
+</div>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-## 🏦 Banking System
+### 🏦 Banking Management System
 
-- Console-based Banking Application
-- Account Creation & Management
-- Deposit & Withdrawal Operations
-- Java Collections Framework
-- File Handling
+<img align="right" width="180" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
-### Technologies
-Java, Collections, OOP
+✔ Account Creation & Management
 
----
+✔ Deposit & Withdrawal Operations
 
-## 💬 Multithreaded Chat Application
+✔ File-Based Data Persistence
 
-- Real-time Client-Server Communication
-- Socket Programming
-- Concurrent Client Handling
-- Thread Synchronization
+✔ Java Collections Framework
 
-### Technologies
-Java, Socket Programming, Multithreading
+✔ OOP-Based Modular Architecture
+
+**Tech:** `Java` `Collections` `OOP`
 
 ---
 
-## ✅ Task Manager System
+### 💬 Multithreaded Chat Application
 
-- Create, Update and Delete Tasks
-- Task Sorting and Management
-- Persistent File Storage
-- Efficient Data Handling using Collections
+✔ Real-Time Client-Server Communication
 
-### Technologies
-Java, Collections Framework, File Handling
+✔ Socket Programming
+
+✔ Concurrent Client Handling
+
+✔ Synchronization & Thread Safety
+
+**Tech:** `Java` `Multithreading` `Sockets`
+
+---
+
+### ✅ Task Manager System
+
+✔ Create, Update & Delete Tasks
+
+✔ Sorting and Searching
+
+✔ File Handling
+
+✔ Persistent Data Storage
+
+**Tech:** `Java` `Collections Framework`
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 Achievements
 
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<br>
+
 ⭐ 3-Star Java Badge on HackerRank
 
 🎓 Merit Scholarship Recipient
 
-🤝 Active Volunteer in College Cultural Events
+🤝 College Event Volunteer
+
+🏅 Strong Problem Solving Skills
 
 ---
 
 # 📜 Certifications
 
-- Core Java – Infosys Springboard
-- Java Fundamentals & Advanced Java Programming – Oracle Academy
-- IBM Front-End Development Certification
-- NPTEL – Advanced Programming in C
+✔ Core Java – Infosys Springboard
 
----
+✔ Java Fundamentals & Advanced Java Programming – Oracle Academy
 
-# 📈 GitHub Stats
+✔ IBM Front-End Development Certification
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-</div>
+✔ NPTEL – Advanced Programming in C
 
 ---
 
@@ -142,22 +179,55 @@ Java, Collections Framework, File Handling
 ```java
 public class PreethamReddy {
 
-    String motto = "Learn • Build • Improve • Repeat";
+    private final String motto =
+        "Code • Learn • Improve • Repeat 🚀";
 
-    public void goals() {
+    public void futureGoals() {
 
-        System.out.println("Become a Skilled Java Developer");
-        System.out.println("Build Scalable Applications");
-        System.out.println("Master Backend Development");
-        System.out.println("Grow as a Software Engineer");
+        System.out.println("Build Scalable Systems");
+        System.out.println("Master Spring Boot");
+        System.out.println("Contribute to Open Source");
+        System.out.println("Become an Exceptional Software Engineer");
     }
 }
 ```
 
 ---
 
+# 📊 Contribution Activity
+
 <div align="center">
 
-### ⭐ Turning Knowledge Into Software Solutions ⭐
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# ☕ Developer Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Transforming Ideas Into Reliable Software Solutions ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
